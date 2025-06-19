@@ -1,0 +1,6 @@
+boss@example.com
+newsletter@service.com
+alerts@something.org
+noreply.ta@alcon.com
+srsfake123@gmail.com
+talent@ibm.com
