@@ -5,6 +5,9 @@ A simple Streamlit app to filter and display Outlook emails based on a list of a
 
 ---
 
+![image](https://github.com/user-attachments/assets/2bdffdda-80a3-4724-afea-383f4803fe9f)
+
+
 ### 💻 Features
 
 * Connects to your local Outlook inbox
